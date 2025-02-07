@@ -10,9 +10,6 @@
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
 
-  padding-left: 15px;  // Add left padding
-  padding-right: 15px; // Add right padding
-
   @include clearfix();
   margin-bottom: 1em;
 
