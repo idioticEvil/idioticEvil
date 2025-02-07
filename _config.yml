@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Walter-Mink's-Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Walter Mink"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://idioticevil.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "idioticevil/idioticevil.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,21 +23,21 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Walter Mink"
+  pronouns         : "he/him"  
+  bio              : "Hi, I’m Walter, a Computer Science and Geography student at the University of Alabama with a passion for software development, AI, and autonomous vehicles. As the CAV Tech Lead for EcoCar, I develop lateral control systems and infotainment software for self-driving cars, and I also work as a Web Design Intern at the Summersell Center, building digital history projects. With experience in robotics, web development, and urban systems, I love blending technology, creativity, and immersive experiences—whether through coding, themed entertainment design, or exploring the outdoors."
+  location         : "Tuscaloosa, AL"
+  employer         : "The University of Alabama"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wwmink@crimson.ua.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #
   researchgate     : # URL
   scopus           : # URL
 
@@ -45,19 +45,19 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "idioticEvil"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "@idioticevil.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "idioticevil"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
