@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Walter-Mink's-Portfolio"
+title                    : "Walter's Portfolio"
 title_separator          : "-"
 name                     : &name "Walter Mink"
 description              : &description "personal description"
