@@ -10,6 +10,9 @@
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
 
+  padding-left: 15px;  // Add left padding
+  padding-right: 15px; // Add right padding
+
   @include clearfix();
   margin-bottom: 1em;
 
@@ -151,7 +154,7 @@
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
-    margin-right: 10px;
+    margin-right: 20px;
   }
 }
 
